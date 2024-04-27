@@ -12,7 +12,7 @@
 <br>
 <h2>Usage: </h2>
 <li>Run the "app.py" file.</li>
-<li>Visit "http://localhost:5000/" in your web browser.<li>
+<li>Visit "http://localhost:5000/" in your web browser.</li>
 <li>Click "Choose File" and select the PNG, JPG, or JPEG image you want to sketch.</li>
 <li>Click "Sketch Image" to initiate the image processing.</li>
 <li>The resulting sketch will be displayed on the page.</li>
